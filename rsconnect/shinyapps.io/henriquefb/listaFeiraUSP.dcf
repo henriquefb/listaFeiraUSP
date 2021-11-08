@@ -1,0 +1,12 @@
+name: listaFeiraUSP
+title: listaFeiraUSP
+username:
+account: henriquefb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5073693
+bundleId: 5229068
+url: https://henriquefb.shinyapps.io/listaFeiraUSP/
+when: 1636410069.81272
+asMultiple: FALSE
+asStatic: FALSE

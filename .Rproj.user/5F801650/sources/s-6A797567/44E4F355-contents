@@ -1,0 +1,6 @@
+library(tabulizer)
+
+pdf_path <- "/Users/henrique/Desktop/coding/listaFeiraUSP/listasEditoras/Editora%20Contexto%20-%20Livia%20Barros.pdf"
+
+bla <- pdf_data(pdf_path)
+

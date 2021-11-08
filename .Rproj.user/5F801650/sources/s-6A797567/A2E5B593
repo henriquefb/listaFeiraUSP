@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1636397404544.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2447756127",
+    "id" : "A2E5B593",
+    "lastKnownWriteTime" : 1636410013,
+    "last_content_update" : 1636410013950,
+    "path" : "~/Desktop/coding/listaFeiraUSP/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "13,59",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

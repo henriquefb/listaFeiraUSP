@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1636408002179.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E1464FE",
+    "lastKnownWriteTime" : 8093582259736543238,
+    "last_content_update" : 1636408002179,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "234E0262",
+        "caption" : "arquivo",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=arquivo&cache_key=234E0262",
+        "displayedObservations" : "26",
+        "environment" : "",
+        "object" : "arquivo",
+        "preview" : "0",
+        "totalObservations" : "26",
+        "variables" : "4"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
