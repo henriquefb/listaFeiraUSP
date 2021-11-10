@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2447756127",
+    "hash" : "1181825933",
     "id" : "A2E5B593",
-    "lastKnownWriteTime" : 1636410013,
-    "last_content_update" : 1636410013950,
+    "lastKnownWriteTime" : 1636414708,
+    "last_content_update" : 1636414708776,
     "path" : "~/Desktop/coding/listaFeiraUSP/app.R",
     "project_path" : "app.R",
     "properties" : {
-        "cursorPosition" : "13,59",
-        "scrollLine" : "0"
+        "cursorPosition" : "11,44",
+        "scrollLine" : "4"
     },
     "relative_order" : 1,
     "source_on_save" : false,

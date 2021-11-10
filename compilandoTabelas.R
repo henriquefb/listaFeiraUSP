@@ -1,4 +1,5 @@
-arquivosCSV <- list.files("listasCSV", pattern="csv", full.names=TRUE)
+library(tidyverse)
+arquivosCSV <- unlist(lapply(c("listasCSV", "listasRecebidasPorEmail"), list.files, pattern="csv", full.names=TRUE))
 
 df = data.frame(matrix(vector(), 0, 5,
                        dimnames=list(c(), c("titulo", "autora", "preço capa", "preço feira", "editora"))),

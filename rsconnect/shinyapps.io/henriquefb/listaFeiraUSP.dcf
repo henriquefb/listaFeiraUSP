@@ -5,8 +5,9 @@ account: henriquefb
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5073693
-bundleId: 5229068
+bundleId: 5237173
 url: https://henriquefb.shinyapps.io/listaFeiraUSP/
-when: 1636410069.81272
+when: 1636562568.24574
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: compilandoTabelas.R|extraindoPDF.py|feiraUSPColetandoListas.R|listasRecebidasPorEmail/companhia das letras.csv|listasCSV|listasEditoras
